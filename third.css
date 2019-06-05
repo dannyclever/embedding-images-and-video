@@ -15,20 +15,26 @@
 .main {
   display: flex;
   margin-top: 70px;
-  /* border: 2px solid gray; */
 }
 .main .right-col {
   margin-left: auto;
 }
+.middle {
+  display: block;
+  background-color: blue;
+}
 .navbar-search-btn {
   background-color: #f8f8f8;
   padding: 0 20px;
+  align-self: center;
   border: none;
   border-left: 1px solid #d3d3d3;
 }
 .navbar-search {
-  width: 100%;
+  flex: 1;
+  width: 80%;
   height: 35px;
+  justify-content: center;
   border: none;
   padding-left: 15px;
   font-size: 1.05rem;
@@ -38,8 +44,6 @@
   position: fixed;
   top: 0;
   width: 100%;
-  display: flex;
-  justify-content: space-between;
   align-items: center;
   height: 60px;
   background: white;
