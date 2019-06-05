@@ -1,0 +1,19 @@
+.left-col {
+  background-color: bisque;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+}
+.navbar .search {
+  /* flex: 0; */
+}
+.main {
+  display: flex;
+  /* justify-content: space-between; */
+  border: 2px solid gray;
+}
+.main .right-col {
+  margin-left: auto;
+}
