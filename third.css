@@ -1,3 +1,8 @@
+input {
+  background-image: url("img/search.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
 .left {
   margin-right: 40px;
 }
@@ -36,7 +41,7 @@
 }
 .navbar-search {
   flex: 1;
-  width: 70%;
+  width: 90%;
   height: 34px;
   justify-content: center;
   border: 1px solid lightgrey;
