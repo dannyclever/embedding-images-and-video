@@ -17,3 +17,19 @@
 .main .right-col {
   margin-left: auto;
 }
+.navbar-search-btn {
+  background-color: #f8f8f8;
+  padding: 0 20px;
+  border: none;
+  border-left: 1px solid #d3d3d3;
+}
+.navbar-search {
+  flex: 1;
+  justify-content: center;
+  width: 100%;
+  height: 35px;
+  border: none;
+  padding-left: 15px;
+  font-size: 1.05rem;
+  box-shadow: inset 0px 0px 1px #d3d3d3;
+}
