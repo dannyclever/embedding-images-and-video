@@ -64,6 +64,18 @@ input {
   display: flex;
   justify-content: space-between;
 }
+.comment {
+  display: flex;
+}
 .comment img {
   border-radius: 50%;
+}
+.comment .userdata {
+  margin: 0px 14px;
+}
+.username {
+  font-weight: bold;
+}
+.time {
+  color: lightgrey;
 }
