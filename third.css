@@ -3,16 +3,19 @@ input {
   background-repeat: no-repeat;
   background-position: right;
 }
-
+body {
+  font-family: "Roboto", sans-serif;
+  margin-left: 22px;
+}
+h3 {
+  font-weight: 500;
+}
 .left {
   margin-right: 40px;
 }
 .left-col {
   flex: 1;
 }
-/* .right-col {
-    width: 600px;
-} */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -66,6 +69,8 @@ input {
 }
 .comment {
   display: flex;
+  font-size: 14px;
+  font-stretch: expanded;
 }
 .photo img {
   border-radius: 50%;
@@ -79,7 +84,7 @@ input {
 .time {
   color: #747474;
 }
-
-h3 {
-   font-family: Roboto;
+#sub {
+  position: absolute;
+  right: 420px;
 }
