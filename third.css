@@ -67,7 +67,7 @@ input {
 .comment {
   display: flex;
 }
-.comment img {
+.photo img {
   border-radius: 50%;
 }
 .comment .userdata {
@@ -77,5 +77,5 @@ input {
   font-weight: bold;
 }
 .time {
-  color: lightgrey;
+  color: #747474;
 }
