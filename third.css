@@ -9,7 +9,6 @@ input {
 }
 .left-col {
   flex: 1;
-  background-color: bisque;
 }
 /* .right-col {
     width: 600px;
@@ -64,4 +63,7 @@ input {
 .icons {
   display: flex;
   justify-content: space-between;
+}
+.comment img {
+  border-radius: 50%;
 }
