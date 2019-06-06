@@ -67,6 +67,19 @@ h3 {
   display: flex;
   justify-content: space-between;
 }
+.video {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 .comment {
   display: flex;
   font-size: 14px;
