@@ -1,4 +1,4 @@
-# embedding-images-and-video
+# Embedding images and video (YouTube Clone)
 
 ## Microverse 1st project
 
