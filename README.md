@@ -21,5 +21,3 @@ Used:
 
 ## The Website
 Follow the link to acess to the Website: https://dannyclever.github.io/embedding-images-and-video/
-
-add `` tag that represents the search button
