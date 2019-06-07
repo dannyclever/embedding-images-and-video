@@ -1,4 +1,23 @@
-# embedding-images-and-video
+# Embedding images and video
+
 ## Microverse 1st project
-This is our first Microverse project so we built the Youtube's page.
-The goal here isn’t to produce an exact replica of the YouTube video page, but to focus on making the media elements show up. That means two things – embedding the YouTube video player into the page so it actually plays and showing little thumbnail images along the right side. To style the page we use only CSS FlexBox.
+
+## Youtube Homepage Clone Website
+
+This repository contains a clone system of Youtube Homepage Website. Youtube clone website created using image and video embedding for the main video and the thumbnails at the sidebar.
+
+Used:
+ * CSS FlexBox
+ * HTML
+ 
+## Authors
+
+ * Neto daniel Zinga https://github.com/dannyclever
+ * Nick Haralampopoulos https://github.com/macnick
+
+## Screenshot
+
+![screenshot](img/Screenshot.jpg)
+
+## The Website
+Follow the link to acess to the Website: https://dannyclever.github.io/embedding-images-and-video/
