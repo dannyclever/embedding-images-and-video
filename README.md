@@ -15,6 +15,10 @@ Used:
  * Neto daniel Zinga https://github.com/dannyclever
  * Nick Haralampopoulos https://github.com/macnick
 
+## Screenshot
+
+[screenshot](img/Screenshot.jpg)
+
 ## The Website
 Follow the link to acess to the Website:https://github.com/dannyclever/embedding-images-and-video
 
