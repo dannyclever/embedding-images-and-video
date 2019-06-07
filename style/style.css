@@ -5,6 +5,9 @@ body {
 h3 {
   font-weight: 500;
 }
+iframe {
+  border: none;
+}
 .left {
   margin-right: 40px;
 }
@@ -13,14 +16,14 @@ h3 {
 }
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   height: 60px;
+  z-index: 20;
   box-shadow: 0 3px 3px rgba(238, 238, 238, 0.6);
 }
 .navbar .search {
-  flex: 1;
-  /* justify-content: center; */
+  flex-shrink: 3;
 }
 .main {
   display: flex;
@@ -59,12 +62,11 @@ h3 {
   align-items: center;
   height: 60px;
   background: white;
-  /* background-color: aqua; */
   box-shadow: 0 3px 3px rgba(238, 238, 238, 0.6);
 }
 .icons {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 .video {
   position: relative;
