@@ -20,4 +20,5 @@ Used:
 ![screenshot](img/Screenshot.jpg)
 
 ## The Website
+
 Follow the link to acess to the Website: https://dannyclever.github.io/embedding-images-and-video/
