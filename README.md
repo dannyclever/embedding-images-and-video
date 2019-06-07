@@ -17,7 +17,7 @@ Used:
 
 ## Screenshot
 
-[screenshot](img/Screenshot.jpg)
+![screenshot](img/Screenshot.jpg)
 
 ## The Website
 Follow the link to acess to the Website:https://github.com/dannyclever/embedding-images-and-video
