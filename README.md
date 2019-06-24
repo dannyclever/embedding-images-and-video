@@ -9,6 +9,7 @@ This repository contains a clone system of Youtube Homepage Website. Youtube clo
 Used:
  * CSS FlexBox
  * HTML
+ * Grid
  
 ## Authors
 
