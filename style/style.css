@@ -44,7 +44,6 @@ iframe {
   background-image: url("img/search.png");
   background-repeat: no-repeat;
   background-position: right;
-
   flex: 1;
   width: 90%;
   height: 34px;
@@ -54,6 +53,10 @@ iframe {
   padding-left: 15px;
   font-size: 1.02rem;
   box-shadow: inset 0px 0px 2px #d3d3d3;
+}
+.navbar .right {
+  width: 300px;
+  margin-left: auto;
 }
 .sticky {
   position: fixed;
