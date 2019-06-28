@@ -8,22 +8,34 @@ h3 {
 iframe {
   border: none;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  z-index: 20;
+  box-shadow: 0 3px 3px rgba(238, 238, 238, 0.6);
+}
+button img {
+  margin-left: -6px;
+  cursor: pointer;
+}
 .left {
   margin-right: 40px;
 }
 .left-col {
   flex: 1;
 }
-.navbar {
+.search {
   display: flex;
+  min-width: 300px;
+  width: 450px;
   justify-content: flex-start;
-  align-items: center;
-  height: 60px;
-  z-index: 20;
-  box-shadow: 0 3px 3px rgba(238, 238, 238, 0.6);
 }
-.navbar .search {
-  flex-shrink: 3;
+.search button {
+  height: 38px;
+  width: 38px;
+  margin-left: -1px;
 }
 .main {
   display: flex;
@@ -33,22 +45,11 @@ iframe {
   width: 400px;
   margin-left: auto;
 }
-.navbar-search-btn {
-  background-color: #f8f8f8;
-  padding: 0 20px;
-  align-self: center;
-  border: none;
-  border-left: 1px solid #d3d3d3;
-}
 .navbar-search {
-  background-image: url("img/search.png");
-  background-repeat: no-repeat;
-  background-position: right;
-
   flex: 1;
   width: 90%;
   height: 34px;
-  justify-content: center;
+  /* justify-content: center; */
   border: 1px solid lightgrey;
   border-radius: 2px;
   padding-left: 15px;
